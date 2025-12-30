@@ -1,5 +1,9 @@
 # Todo-project
 https://todo-project-g054.onrender.com
+<img width="1600" height="723" alt="image" src="https://github.com/user-attachments/assets/79fec053-0a26-4402-879e-349f5bd8dfeb" />
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/a59975e7-ae5d-4e10-ad83-7080dca36c7c" />
+<img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/703d8fe1-1fc9-4355-80b2-2c7902350567" />
+
 PROJECT REPORT
 Title
 
